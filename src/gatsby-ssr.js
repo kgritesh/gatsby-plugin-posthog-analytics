@@ -2,7 +2,7 @@ import React from "react"
 
 const defaultOptions = {
   isEnabledDevMode: false,
-  apiHost: 'https://app.posthog.com',
+  appHost: 'https://app.posthog.com',
   head: true
 };
 
