@@ -24,7 +24,7 @@ module.exports = {
         // Specify the API key for your Posthog Project (required)
         apiKey: "YOUR_POSTHOG_ANALYTICS_API_KEY",
 	// Specify the app host if self-hosting (optional, default: https://app.posthog.com)
-	appHost: "YOUR_POSTHOG_APP_HOST_URL",
+	apiHost: "YOUR_POSTHOG_APP_HOST_URL",
         // Puts tracking script in the head instead of the body (optional, default: true)
         head: true,
 	// Enable posthog analytics tracking during development (optional, default: false)
